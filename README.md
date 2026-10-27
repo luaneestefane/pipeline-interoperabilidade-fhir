@@ -2,7 +2,7 @@
 
 **Teste Técnico | Engenheiro de Dados — Especialista em HL7 FHIR**
 
-**Indra Group | Secretaria de Estado da Saúde de Goiás**
+
 
 ## 1. Sobre o projeto
 
